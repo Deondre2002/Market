@@ -17,12 +17,27 @@
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "pg": "^8.14.1"
+    "pg": "^8.16.3"
   },
   "devDependencies": {
     "supertest": "^7.1.0",
     "vitest": "^3.1.2"
-  }
+  },
+  "version": "1.0.0",
+  "description": "Market is a versatile and robust e-commerce platform that allows users to browse and purchase a wide selection of products.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deondre2002/Market.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deondre2002/Market/issues"
+  },
+  "homepage": "https://github.com/Deondre2002/Market#readme"
 }
